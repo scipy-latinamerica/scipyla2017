@@ -82,20 +82,23 @@ Electronic Design Automation, Electronic materials and Devices, Hardware Design,
 High-Performance Computing, Magnetic Materials and Devices, Mechatronics,
 Optical materials and devices, Robotics, Semiconductors.
 
-## Research notes on Python, Finance and Economics
+## Research notes on Python, Economics and Management Science
 
 
 ### Topics
 
 Some particular areas of interest are:
 
-- 
+- Integrated Production, Inventory and Distribution planning
+- Lot Sizing and Scheduling
+- Physical internet
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
 Advertising, Complexity Economics, Computational Economics, Computational Finance,
-E-Business, Econometrics, Experimental Economics, Financial econometrics,
-Marketing, Macroeconomics, Mathematical Economics, Microeconomics.
+Combinatorial Optimization, E-Business, Econometrics, Experimental Economics,
+Financial econometrics, Large Scale Optimization, Logistics, Marketing, Macroeconomics,
+Mathematical Economics, Microeconomics, Operations management, Suply chain management.
 
 ## Research notes on Python and Emerging Computing Technologies
 
@@ -134,7 +137,6 @@ Some particular areas of interest are:
 - Mobile collaboration and e-learning
 - Parallel programming and distributed systems
 - Pattern recognition
-- Physical internet
 - Radio-frequency identification
 - Semantic web technologies
 - Software Defined Networks
@@ -187,7 +189,7 @@ Some particular areas of interest are:
 In general the program committee will accept paper submissions related to the following disciplines:
 
 Architecture, Bibliometrics, Citation analysis, Computational Linguistics, Computational Sociology,
-Internet sociology, Journalism, Logistics, Mass media, Natural language processing, 
-Operations management, Sociocybernetics, Urban planning, Urban sociology.
+Internet sociology, Journalism, Mass media, Natural language processing, 
+Sociocybernetics, Urban planning, Urban sociology.
 
 
