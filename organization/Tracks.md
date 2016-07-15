@@ -129,6 +129,7 @@ Some particular areas of interest are:
 - Evolutionary computation
 - Image processing
 - Internet of Things
+- Large scale optimization
 - Machine learning
 - Mobile collaboration and e-learning
 - Parallel programming and distributed systems
