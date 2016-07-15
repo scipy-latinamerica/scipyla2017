@@ -187,7 +187,7 @@ Some particular areas of interest are:
 In general the program committee will accept paper submissions related to the following disciplines:
 
 Architecture, Bibliometrics, Citation analysis, Computational Linguistics, Computational Sociology,
-Internet sociology, Journalism, Mass media, Natural language processing, Sociocybernetics,
-Urban planning, Urban sociology.
+Internet sociology, Journalism, Logistics, Mass media, Natural language processing, 
+Operations management, Sociocybernetics, Urban planning, Urban sociology.
 
 
