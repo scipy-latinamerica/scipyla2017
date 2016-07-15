@@ -1,5 +1,5 @@
 
-# Conference tracks =
+# Conference tracks
 
 The activities scheduled in SciPyLA 2017 program are .
 
