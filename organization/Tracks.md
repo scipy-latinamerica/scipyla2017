@@ -1,11 +1,11 @@
 
-= Conference tracks =
+# Conference tracks
 
 The activities scheduled in SciPyLA 2017 program are .
 
-== Research notes on Python and Bio-informatics
+## Research notes on Python and Bio-informatics
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -34,9 +34,9 @@ Microbiology, Molecular Biology, Molecular Mechanics, Nanomaterials, Nanotechnol
 Paleobiology, Polymer Chemistry and Engineering, Phytochemistry, Structural Biology,
 Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tissue Engineering, Virology.
 
-== Research notes on Python and Physics
+## Research notes on Python and Physics
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -50,9 +50,9 @@ Experimental Physics, Fluid Dynamics, Mathematical Physics, Molecular Quantum Me
 Nuclear Physics, Numerical Simulations, Physics of materials, Quantum Physics, Radiochemistry,
 Semiconductors, Statistical Mechanics.
 
-== Research notes on Python and Electrical Engineering
+## Research notes on Python and Electrical Engineering
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -82,22 +82,25 @@ Electronic Design Automation, Electronic materials and Devices, Hardware Design,
 High-Performance Computing, Magnetic Materials and Devices, Mechatronics,
 Optical materials and devices, Robotics, Semiconductors.
 
-== Research notes on Python, Finance and Economics
+## Research notes on Python, Economics and Management Science
 
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
-- 
+- Integrated Production, Inventory and Distribution planning
+- Lot Sizing and Scheduling
+- Physical internet
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
 Advertising, Complexity Economics, Computational Economics, Computational Finance,
-E-Business, Econometrics, Experimental Economics, Financial econometrics,
-Marketing, Macroeconomics, Mathematical Economics, Microeconomics.
+Combinatorial Optimization, E-Business, Econometrics, Experimental Economics,
+Financial econometrics, Large Scale Optimization, Logistics, Marketing, Macroeconomics,
+Mathematical Economics, Microeconomics, Operations management, Suply chain management.
 
-== Research notes on Python and Emerging Computing Technologies
+## Research notes on Python and Emerging Computing Technologies
 
 A number of research subjects are pushing the limits of current technologies and tools.
 It is then convenient to explore the impact of Python to support the most prominent ongoing
@@ -107,7 +110,7 @@ Submitted contributions are expected to portray how Python
 constitutes an integral part of the technical innovations and the particular
 role of the programming language in providing a competitive advantage.
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -129,11 +132,11 @@ Some particular areas of interest are:
 - Evolutionary computation
 - Image processing
 - Internet of Things
+- Large scale optimization
 - Machine learning
 - Mobile collaboration and e-learning
 - Parallel programming and distributed systems
 - Pattern recognition
-- Physical internet
 - Radio-frequency identification
 - Semantic web technologies
 - Software Defined Networks
@@ -151,9 +154,9 @@ Mass media, Optical fiber networks, Quantum Computing, Telecommunications,
 Wireless Technologies.
 
 
-== Research notes on Python and Earth Sciences
+## Research notes on Python and Earth Sciences
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -171,9 +174,9 @@ Geography, Geology, Geomorphology, Geophysics, Glaciology, Hydrogeology, Hidrolo
 Inorganic Chemistry, Marine Chemistry, Meteorology, Mineralogy, Oceanography,
 Paleontology, Pedology, Petrochemistry, Soil Science, Speleology.
 
-== Research notes on Python, Social Sciences and Humanities
+## Research notes on Python, Social Sciences and Humanities
 
-=== Topics
+### Topics
 
 Some particular areas of interest are:
 
@@ -186,7 +189,7 @@ Some particular areas of interest are:
 In general the program committee will accept paper submissions related to the following disciplines:
 
 Architecture, Bibliometrics, Citation analysis, Computational Linguistics, Computational Sociology,
-Internet sociology, Journalism, Mass media, Natural language processing, Sociocybernetics,
-Urban planning, Urban sociology.
+Internet sociology, Journalism, Mass media, Natural language processing, 
+Sociocybernetics, Urban planning, Urban sociology.
 
 
