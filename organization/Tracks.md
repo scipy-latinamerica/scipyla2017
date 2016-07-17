@@ -1,7 +1,41 @@
 
 # Conference tracks
 
-The activities scheduled in SciPyLA 2017 program are .
+SciPyLA 2017 is the 5th Latin American conference on the applications in science of the Python
+programing language.
+
+The SciPyLA conference encourages submissions of four types of papers:
+
+- Research and position papers: We encourage papers that describe work-in-progress
+  or recently completed work based on the themes and goals of the different tracks or
+  related topics, report on experiences gained, question accepted wisdom,
+  raise challenging open problems, or propose speculative new approaches.
+  We will accept two types of papers: research papers up to 8 pages in length;
+  and position papers up to 2 pages in length.
+
+- Hypotheses papers: Hypotheses papers explicitly identify beliefs of the research
+  community or mainstream industries about how a scientific technology and tools
+  affect research practice. Hypotheses can be collected from mailing lists,
+  blog posts, paper introductions, developer forums, or interviews.
+  Papers should clearly document the source(s) of each hypothesis and discuss the
+  importance, use, and relevance of the hypotheses on research or practice.
+  Papers may also, but are not required to, review evidence for or against the
+  hypotheses identified. Hypotheses papers can be up to 4 pages in length.
+
+- Review articles: review articles are articles that summarize the current state
+  of understanding on a topic. A review article surveys and summarizes previously
+  published studies, rather than reporting new facts or analysis.
+  Review Articles teach about: 
+  * the main people working in a field
+  * recent major advances and discoveries
+  * significant gaps in the research
+  * current debates
+  * ideas of where research might go next
+
+Submissions may be accompanied by data papers and video papers complementing
+the subjects discussed.
+
+The activities scheduled in SciPyLA 2017 program are the following.
 
 ## Research notes on Python and Bio-informatics
 
