@@ -51,11 +51,17 @@ The activities scheduled in SciPyLA 2017 program are the following.
 
 Some particular areas of interest are:
 
+- Biological Inspired Sensors. APIs 
 - Bio-printing
 - Bioplastic
-- Brain-computer interfaces
+- Brain, Heart and Organ Simulations and Processing
 - Brain reading and Neuroinformatics
+- Brain-computer interfaces
+- Cancer and Tumor Studies with Big Data
 - Conductive polymers
+- DNA Sequencing
+- Health Informatics as a Service (HIaaS)
+- Immunoassays
 - In vitro meat
 - Lab-on-a-chip and applications
 - Nanomedicines and Nanosensors
@@ -100,6 +106,7 @@ Some particular areas of interest are:
 
 - 3D printing
 - 3D and holographic display solutions
+- Adaptive Signal Processing and Control
 - Agricultural robots
 - Android, gynoid
 - Autonomous vehicles
@@ -107,17 +114,28 @@ Some particular areas of interest are:
 - Claytronics algorithms and programming
 - Cloud robotics
 - Collective Adaptive Systems
+- Computer-based Manufacturing Technologies
 - Computer-generated holography devices
 - Digital scent technology
 - Electric vehicles
 - Energy-efficient networking and smart grid technologies
+- Expert Systems for Industry
 - Flying cars
 - Future-generation sensor networks
+- Hardware prototyping and simulation
+- Human-robots Interfaces
+- Intelligent Fault Detection and Identification
+- Machine Learning in Control Applications
+- MyHDL
+- Petri Nets (System Design/Verification with Nets, Protocols and Networks)
 - Powered exoskeleton
 - Real-time systems
+- Robot Design, Development and Control
 - Robotic surgery
 - Self-reconfiguring modular robots
 - Self-organization, self-stabilization, & autonomic computing
+- System-on-Chip design and simulation
+- Software Agents for Intelligent Control Systems
 - Vehicular communication systems
 - Virtual prototyping and testing of cyber-physical systems
 - Wearable devices
@@ -136,15 +154,39 @@ Optical materials and devices, Robotics, Semiconductors.
 
 Some particular areas of interest are:
 
+- Airport simulation
+- Business Intelligence
+- Business Process as a Service (BPaaS)
+- Business Process Modeling
+- CRM, ERP and Decision Support Systems
 - Cryptocurrency
+- Forecasting
+- E-Business, E-Entrepreneurship, E-Learning, and E-Logistics
 - Economics of big data
+- Enterprise and Strategic Information Systems
+- Enterprise Service Bus, Workflows, Data and Tool Integration
+- Financial Software as a Service (FSaaS)
 - Integrated Production, Inventory and Distribution planning
+- Lean Enterprise, Lean Startups
 - Lot Sizing and Scheduling
+- Merchandise port and Shipping transport simulation
+- Mobile payment protocols, solutions, service systems, platforms and marketplaces
 - Network economics
+- Payment gateways
 - Physical internet
-- Process mining
+- Process Mining and Process Reengineering
 - Process simulation frameworks
+- Public transport simulation
+- Sharing economy
+- Simulation for business planning
+- Simulation and models in finance
+- Simulation in warehouse operations
+- Simulation to predict market behavior
+- Simulation-based scheduling
 - Social web economics and business
+- Stochastic Processes
+- Supply Chain Information Systems
+- Virtual Enterprises and Interoperability
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
@@ -168,11 +210,14 @@ role of the programming language in providing a competitive advantage.
 Some particular areas of interest are:
 
 - 4G and 5G cellular communications
-- Agent-based systems
+- Agent-based systems and architectures
+- Agent-to-Human service interactions
+- Analytics as a Service (AaaS)
 - Augmented reality
-- Big Data, Cloud Computing, and High-performance Computing
+- Big Data
+- Cloud Computing, IaaS, PaaS and SaaS
+- Big Data as a Service (BDaaS)
 - Biometrics
-- Business Intelligence
 - Combinatorial optimization
 - Computational Geometry
 - Computer-generated imagery
@@ -185,16 +230,19 @@ Some particular areas of interest are:
 - Deep learning
 - Evolutionary computation
 - Graph Computation Models
+- High-performance Computing
 - Image processing
+- Integration as a Service
 - Internet of Things
 - Large scale optimization
 - Machine learning
+- Machine to Machine Communications
 - Mobile collaboration and e-learning
+- Mobile database retrieval techniques, transaction models and caching techniques
 - Network function virtualization and Mobile edge computing
 - Scalable Model-Driven Engineering
 - Pattern recognition
 - Radio-frequency identification
-- Semantic web technologies
 - Software Defined (and Cognitive) Networks
 - Software Defined Radio
 - Speech recognition
@@ -218,9 +266,14 @@ Some particular areas of interest are:
 
 - Atmospheric carbon dioxide removal
 - Carbon neutral fuel
+- Climate and weather-related simulations
 - Closed ecological systems
+- Natural Science as a Service (NSaaS)
 - Precision agriculture
+- Simulation for disaster mitigation
 - Vertical farming
+- Weather Data Visualization
+- Weather Forecasting
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
@@ -237,27 +290,37 @@ Paleontology, Pedology, Petrochemistry, Soil Science, Speleology.
 Some particular areas of interest are:
 
 - Adaptive/Personalized conversational media
+- Ambient intelligent frameworks, platforms, and systems
 - Arcology
 - Autonomous building
 - Bionic architecture
-- Civic technology and Smart cities
+- Civic technology and Smart cities. Examples and Case Studies
 - Computational intelligence for media adaptation and personalization
 - Content creation, annotation and modelling for semantic and social web
 - Context-aware multimedia applications
 - Domed city
+- e-Communities
+- Education as a Service (EaaS)
 - Machine translation
 - Multilingual content navigation
-- Ontologies and reasoning based on social media
+- Online social models for social networking and consumption simulation
+- Ontologies and reasoning applied to social media
+- Open data: Issues, Services and Solutions
 - Privacy/Security issues in Social and Personalized Media Applications
 - Semantic context modelling and extraction
+- Semantic web technologies
 - Semantics-based recommender systems: theory and applications
 - Semantics-driven indexing and retrieval of multimedia contents
+- Sharing economy
+- Simulation of building physics
+- Simulation of urban mobility
 - Social and semantic media collaboration platforms (e.g. semantic wikis)
 - Social multimedia applications (livecasting, audio-video sharing)
 - Social multimedia tagging and multimedia content communities
 - Social network aggregation
 - User modelling and dynamic profiling
 - User-generated content mechanisms
+- Video Search and Video Mining
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
