@@ -37,7 +37,7 @@ the subjects discussed.
 
 The activities scheduled in SciPyLA 2017 program are the following.
 
-## Research notes on Python and Bio-informatics
+## Latin American Workshop on Python and Bio-informatics
 
 ### Topics
 
@@ -68,7 +68,7 @@ Microbiology, Molecular Biology, Molecular Mechanics, Nanomaterials, Nanotechnol
 Paleobiology, Polymer Chemistry and Engineering, Phytochemistry, Structural Biology,
 Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tissue Engineering, Virology.
 
-## Research notes on Python and Physics
+## Latin American Workshop on Python and Physics
 
 ### Topics
 
@@ -84,7 +84,7 @@ Experimental Physics, Fluid Dynamics, Mathematical Physics, Molecular Quantum Me
 Nuclear Physics, Numerical Simulations, Physics of materials, Quantum Physics, Radiochemistry,
 Semiconductors, Statistical Mechanics.
 
-## Research notes on Python and Electrical Engineering
+## Latin American Workshop on Python and Electrical Engineering
 
 ### Topics
 
@@ -116,7 +116,7 @@ Electronic Design Automation, Electronic materials and Devices, Hardware Design,
 High-Performance Computing, Magnetic Materials and Devices, Mechatronics,
 Optical materials and devices, Robotics, Semiconductors.
 
-## Research notes on Python, Economics and Management Science
+## Latin American Workshop on Python, Economics and Management Science
 
 
 ### Topics
@@ -134,7 +134,7 @@ Combinatorial Optimization, E-Business, Econometrics, Experimental Economics,
 Financial econometrics, Large Scale Optimization, Logistics, Marketing, Macroeconomics,
 Mathematical Economics, Microeconomics, Operations management, Suply chain management.
 
-## Research notes on Python and Emerging Computing Technologies
+## Latin American Workshop on Python and Emerging Computing Technologies
 
 A number of research subjects are pushing the limits of current technologies and tools.
 It is then convenient to explore the impact of Python to support the most prominent ongoing
@@ -188,7 +188,7 @@ Mass media, Optical fiber networks, Quantum Computing, Telecommunications,
 Wireless Technologies.
 
 
-## Research notes on Python and Earth Sciences
+## Latin American Workshop on Python and Earth Sciences
 
 ### Topics
 
@@ -208,7 +208,7 @@ Geography, Geology, Geomorphology, Geophysics, Glaciology, Hydrogeology, Hidrolo
 Inorganic Chemistry, Marine Chemistry, Meteorology, Mineralogy, Oceanography,
 Paleontology, Pedology, Petrochemistry, Soil Science, Speleology.
 
-## Research notes on Python, Social Sciences and Humanities
+## Latin American Workshop on Python, Social Sciences and Humanities
 
 ### Topics
 
