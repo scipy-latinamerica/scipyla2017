@@ -4,7 +4,7 @@
 SciPyLA 2017 is the 5th Latin American conference on the applications in science of the Python
 programing language.
 
-The SciPyLA conference encourages submissions of four types of papers:
+The SciPyLA conference encourages submissions of three types of papers:
 
 - Research and position papers: We encourage papers that describe work-in-progress
   or recently completed work based on the themes and goals of the different tracks or
