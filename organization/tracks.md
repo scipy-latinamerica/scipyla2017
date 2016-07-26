@@ -10,8 +10,8 @@ The SciPyLA conference encourages submissions of four types of papers:
   or recently completed work based on the themes and goals of the different tracks or
   related topics, report on experiences gained, question accepted wisdom,
   raise challenging open problems, or propose speculative new approaches.
-  We will accept two types of papers: research papers up to 8 pages in length;
-  and position papers up to 2 pages in length.
+  We will accept two types of papers: research papers up to 15 pages in length;
+  and position papers up to 4 pages in length.
 
 - Hypotheses papers: Hypotheses papers explicitly identify beliefs of the research
   community or mainstream industries about how a scientific technology and tools
@@ -22,15 +22,23 @@ The SciPyLA conference encourages submissions of four types of papers:
   Papers may also, but are not required to, review evidence for or against the
   hypotheses identified. Hypotheses papers can be up to 4 pages in length.
 
-- Review articles: review articles are articles that summarize the current state
+- Review articles: Review articles summarize the current state
   of understanding on a topic. A review article surveys and summarizes previously
-  published studies, rather than reporting new facts or analysis.
+  published studies, rather than reporting new facts or analysis. The conference
+  encourages submission of industrial experience and tool demonstrations in this
+  category. Review articles can be up to 10 pages in length.
   Review Articles teach about: 
   * the main people working in a field
   * recent major advances and discoveries
   * significant gaps in the research
   * current debates
   * ideas of where research might go next
+
+Research papers will be judged for technical novelty and scientific merit.
+Any previous publication in any form must be explicitly identified and
+cited on the first page of the submission. Papers in all other categories
+will be judged on novelty, clarity, accessibility, and suitability for a
+high quality presentation and discussion at the workshop.
 
 Submissions may be accompanied by data papers and video papers complementing
 the subjects discussed.
@@ -98,15 +106,20 @@ Some particular areas of interest are:
 - Bionics
 - Claytronics algorithms and programming
 - Cloud robotics
+- Collective Adaptive Systems
 - Computer-generated holography devices
 - Digital scent technology
 - Electric vehicles
+- Energy-efficient networking and smart grid technologies
 - Flying cars
+- Future-generation sensor networks
 - Powered exoskeleton
+- Real-time systems
 - Robotic surgery
 - Self-reconfiguring modular robots
-- Smart grid technologies
+- Self-organization, self-stabilization, & autonomic computing
 - Vehicular communication systems
+- Virtual prototyping and testing of cyber-physical systems
 - Wearable devices
 
 In general the program committee will accept paper submissions related to the following disciplines:
@@ -123,9 +136,15 @@ Optical materials and devices, Robotics, Semiconductors.
 
 Some particular areas of interest are:
 
+- Cryptocurrency
+- Economics of big data
 - Integrated Production, Inventory and Distribution planning
 - Lot Sizing and Scheduling
+- Network economics
 - Physical internet
+- Process mining
+- Process simulation frameworks
+- Social web economics and business
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
@@ -151,29 +170,32 @@ Some particular areas of interest are:
 - 4G and 5G cellular communications
 - Agent-based systems
 - Augmented reality
-- Big Data
+- Big Data, Cloud Computing, and High-performance Computing
 - Biometrics
 - Business Intelligence
-- Civic technology and Smart cities
 - Combinatorial optimization
 - Computational Geometry
 - Computer-generated imagery
 - Computer vision
-- Cryptocurrency
 - Data Mining
 - Data-parallel algorithms and SIMD architectures
 - Data Science
+- Distributed algorithms, operating systems, and database systems
+- Domain Specific Languages
+- Deep learning
 - Evolutionary computation
+- Graph Computation Models
 - Image processing
 - Internet of Things
 - Large scale optimization
 - Machine learning
 - Mobile collaboration and e-learning
-- Parallel programming and distributed systems
+- Network function virtualization and Mobile edge computing
+- Scalable Model-Driven Engineering
 - Pattern recognition
 - Radio-frequency identification
 - Semantic web technologies
-- Software Defined Networks
+- Software Defined (and Cognitive) Networks
 - Software Defined Radio
 - Speech recognition
 - Virtual reality
@@ -214,11 +236,28 @@ Paleontology, Pedology, Petrochemistry, Soil Science, Speleology.
 
 Some particular areas of interest are:
 
+- Adaptive/Personalized conversational media
 - Arcology
 - Autonomous building
 - Bionic architecture
+- Civic technology and Smart cities
+- Computational intelligence for media adaptation and personalization
+- Content creation, annotation and modelling for semantic and social web
+- Context-aware multimedia applications
 - Domed city
 - Machine translation
+- Multilingual content navigation
+- Ontologies and reasoning based on social media
+- Privacy/Security issues in Social and Personalized Media Applications
+- Semantic context modelling and extraction
+- Semantics-based recommender systems: theory and applications
+- Semantics-driven indexing and retrieval of multimedia contents
+- Social and semantic media collaboration platforms (e.g. semantic wikis)
+- Social multimedia applications (livecasting, audio-video sharing)
+- Social multimedia tagging and multimedia content communities
+- Social network aggregation
+- User modelling and dynamic profiling
+- User-generated content mechanisms
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
