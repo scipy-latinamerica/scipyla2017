@@ -1,3 +1,12 @@
 
 *.swp
+/scripts 
+/html
+/imgs
+*.directory
+*.pyc
+*~
+*.orig
+*.*#
+*.bak
 
