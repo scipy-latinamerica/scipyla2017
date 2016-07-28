@@ -41,7 +41,7 @@ Ayúdenos a organizar sus intereses y la agenda de la conferencia enviando su á
 
 ## Publicación
 
-La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional [The Python Papers](http://thepythonpapers.org/) indexada en:
+La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en una revista internacional indexada en:
 
 *   Google Scholar
 *   DRJI
@@ -91,31 +91,26 @@ Esta convocatoria anticipada tiene como objetivo que los interesados en particip
 
 # Contactos {#Contact}
 
+*   2017@scipyla.org
 *   scipyla2017@pythoncuba.org
 *   scipyla2017@cuban.tech
 
 # Organizadores
 
-*   Python Cuba Workgroup
-*   Python Software Foundation
+*   Comunidad SciPy Latin America
+*   Python Cuba Workgroup - Python Software Foundation
 
 # Patrocinadores
 
-*   Python Software Foundation [](/imgs/psf.logo.png)
 *   Scipy Latin America [](/imgs/scipyla.logo.png)
 
 ## Cursos
 
-Aún por definir.(Se están haciendo gestiones con Software Carpenter)
+Aún por definir.
 
 ## Proyectos, Bibliotecas y Tecnologías promocionadas
 
-* Scipy
-* Numpy
-* Matplotlib
-* Sklearn
-* Pandas
-* NLTK
+Aún por definir.
 
 *Versión 0.4, 26 de julio de 2016*
 

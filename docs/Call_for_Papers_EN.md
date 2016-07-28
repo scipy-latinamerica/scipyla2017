@@ -41,7 +41,7 @@ Help us to organize your interests and the schedule of the conference by sending
 
 ## Publication
 
-The conference offers researchers and PhD candidates in the region the opportunity to publish in the [The Python Papers](http://thepythonpapers.org/) international journal, indexed in:
+The conference offers researchers and PhD candidates in the region the opportunity to publish in an international journal, indexed in:
 
 * Google Scholar
 * DRJI
@@ -70,7 +70,7 @@ Activities
 
 * **Presentations and lectures**
 
-    Guest speakers will talk about global trends and best practices in science. Authors submitting the most relevant articles (as assessed by peer reviewers) and those proposing the most popular topics (according to participants) will expose their methods and results.
+    Keynote speakers will talk about global trends and best practices in science. Authors submitting the most relevant articles (as assessed by peer reviewers) and those proposing the most popular topics (according to participants) will expose their methods and results.
 
 * **Poster Sessions**
 
@@ -92,31 +92,26 @@ This early call is intended to give those interested in participating some time 
 
 # Contacts {#Contact}
 
+* 2017@scipyla.org
 * scipyla2017@pythoncuba.org
 * scipyla2017@cuban.tech
 
 # Organizers
 
-* Python Cuba Workgroup
-* Python Software Foundation
+* SciPy Latin America Community
+* Python Cuba Workgroup - Python Software Foundation
 
 # Sponsors
 
-* Python Software Foundation [] (/ imgs / psf.logo.png)
-* Scipy Latin America [] (/ imgs / scipyla.logo.png)
+* Scipy Latin America [] (/imgs/scipyla.logo.png)
 
 ## Courses
 
-Aún por definir.(Se están haciendo gestiones con Software Carpenter)
+TBD
 
 ## Projects, Libraries and Technologies promoted
 
-* Scipy
-* Numpy
-* Matplotlib
-* Sklearn
-* Pandas
-* NLTK
+TBD
 
 *Version 0.4, July 26, 2016*
 
