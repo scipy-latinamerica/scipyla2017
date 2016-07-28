@@ -8,14 +8,14 @@
 
 ### "Más python, más ciencia"
 
-La 5ta conferencia SciPy LA tendrá lugar en La Habana, Cuba, en mayo del 2017.
+La 5ta conferencia SciPy LA tendrá lugar en La Habana, Cuba, en Mayo del 2017.
 
 ## Objetivos
 
 *   Promover el uso de enfoques accesibles y reproducibles en la investigación científica.
-*   Presentar adelantos científico-técnicos recientes utilizando herramientas hechas en Python.
+*   Presentar adelantos científico-técnicos recientes utilizando el lenguaje de programación Python o herramientas hechas en -o relacionadas con- Python.
 *   Promover el uso del lenguaje de programación Python en las actividades de investigación científica.
-*   Contribuir con el desarrollo tecnológico de Cuba y la América Latina.
+*   Contribuir con el desarrollo tecnológico de Cuba y América Latina.
 
 ## Temáticas
 
@@ -54,22 +54,22 @@ Español, Portugués, Inglés
 
 ## Fechas Importantes
 
-*   Sitio Web de la Conferencia: agosto 2016
-*   Aceptación de revisores: noviembre 2016
-*   Recepción de trabajos: enero 2017
-*   Respuesta de revisores: febrero 2017
-*   Envío de correcciones: marzo 2017
+*   Sitio Web de la Conferencia: Agosto 2016
+*   Aceptación de revisores: Noviembre 2016
+*   Recepción de trabajos: Enero 2017
+*   Respuesta de revisores: Febrero 2017
+*   Envío de correcciones: Marzo 2017
 
 ## Actividades
 
 
 * **Tutoriales**
 
-    Talleres ofrecidos por expertos en herramientas hechas con Python y dirigidas a mejorar la productividad de los investigadores, a automatizar el análisis de datos, así como a garantizar la obtención de resultados fiables y reproducibles.
+    Talleres ofrecidos por expertos en herramientas hechas con Python y dirigidas a mejorar la productividad de los investigadores, automatizar el análisis de datos y garantizar la obtención de resultados fiables y reproducibles.
 
 *   **Presentaciones y charlas**
 
-    Conferencistas invitados hablarán acerca de tendencias mundiales y mejores prácticas en el ámbito científico. Los autores que envíen los artículos más relevantes (según criterio de los expertos revisores) y aquellos que propongan los temas más populares (según los participantes) darán charlas exponiendo sus métodos y resultados.
+    Conferencistas invitados hablarán acerca de tendencias mundiales y mejores prácticas en el ámbito científico. Los autores que envíen los artículos más relevantes (según criterio de los expertos revisores) y aquellos que propongan los temas más populares (según los participantes) podrán impartir charlas exponiendo sus métodos y resultados.
 
 *   **Sesiones de Posters**
 
@@ -79,7 +79,7 @@ Español, Portugués, Inglés
 
 *   **Sprints**
 
-    Reúnase con los autores de librerías reconocidas para implementar maneras más eficientes de realizar cálculos científicos.
+    Reúnase con los autores de bibliotecas o herramientas reconocidas para implementar maneras más eficientes de realizar cálculos científicos.
 
 *   **Charlas relámpago**
 
@@ -87,7 +87,7 @@ Español, Portugués, Inglés
 
 ## Sobre esta convocatoria
 
-Esta convocatoria anticipada tiene como objetivo que los interesados en participar cuenten con tiempo suficiente para preparar algún trabajo en ejecución. Solo se requiere: novedad, valor científico, aplicación práctica y buena redacción. Serán priorizadas las soluciones afines con el lenguaje Python, las investigaciones dirigidas al mejoramiento de la calidad de vida de los ciudadanos de las región, así como los trabajos con instrucciones que permitan repetir los experimentos.
+Esta convocatoria anticipada tiene como objetivo que los interesados en participar cuenten con tiempo suficiente para preparar los trabajo que desee presentar. Solo se requiere: novedad, valor científico, aplicación práctica y buena redacción. Serán priorizadas las soluciones afines con el lenguaje Python, las investigaciones dirigidas al mejoramiento de la calidad de vida de los ciudadanos de la región, así como los trabajos con instrucciones que permitan repetir los experimentos.
 
 # Contactos {#Contact}
 
