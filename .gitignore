@@ -1,3 +1,5 @@
+
+*.swp
 /scripts 
 /html
 /imgs
@@ -7,3 +9,4 @@
 *.orig
 *.*#
 *.bak
+
