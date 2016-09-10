@@ -90,10 +90,13 @@ Some particular areas of interest are:
 
 - Numerical methods for resolution of differential equations
 - High-energy physics experiments
+- Universe large-scale structure formation
+- Galaxies evolution
+- Dark matter simulations
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
-Applied Physics, Astronomy, Astrophysics, Computational Physics, Elementary Particle Physics,
+Applied Physics, Astronomy, Astrophysics, Computational Physics, Cosmology, Elementary Particle Physics,
 Experimental Physics, Fluid Dynamics, Mathematical Physics, Molecular Quantum Mechanics,
 Nuclear Physics, Numerical Simulations, Physics of materials, Quantum Physics, Radiochemistry,
 Semiconductors, Statistical Mechanics.
@@ -264,12 +267,24 @@ Wireless Technologies.
 
 Some particular areas of interest are:
 
+- Analysis of seismic records
 - Atmospheric carbon dioxide removal
 - Carbon neutral fuel
 - Climate and weather-related simulations
 - Closed ecological systems
+- Computational analysis of effects of topography on prospection results
+- Comptational magnetometry and applications in geological mapping
+- Computational prospection methods based on dip-angle techniques
+- Galvanic and magneto-telluric resistivity methods
+- Interpretation of electromagnetic surveys
+- Interpretation methods based on reflections and refractions of spherical waves
 - Natural Science as a Service (NSaaS)
+- Numerical calculations and direct interpretation of direct-current conduction methods
+- Numerical analysis to determine ocurrence of flow (movement) of ground water
 - Precision agriculture
+- Propagation of elastic waves in randomly inhomogeneous media
+- Reduction and interpretation of potential field data. Gravity and magnetic anomalies
+- Seismic interpretation
 - Simulation for disaster mitigation
 - Vertical farming
 - Weather Data Visualization
@@ -281,7 +296,7 @@ Astronomy, Astrophysics, Atmospheric Chemistry, Ecotechnology, Edaphology,
 Gemology, Geochemistry, Geodesy,
 Geography, Geology, Geomorphology, Geophysics, Glaciology, Hydrogeology, Hidrology,
 Inorganic Chemistry, Marine Chemistry, Meteorology, Mineralogy, Oceanography,
-Paleontology, Pedology, Petrochemistry, Soil Science, Speleology.
+Paleontology, Pedology, Petrochemistry, Seismics, Soil Science, Speleology.
 
 ## Latin American Workshop on Python, Social Sciences and Humanities
 
