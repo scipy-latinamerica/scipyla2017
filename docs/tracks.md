@@ -47,6 +47,11 @@ The activities scheduled in SciPyLA 2017 program are the following.
 
 ## Latin American Workshop on Python and Bio-informatics
 
+SciPyLA 2017 will be the venue to explore innovation opportunities
+in Latin America’s life science industry. Cuba excels with 893 sanitary
+permits in more than 50 countries. Join researchers leveraging Python
+tools and explaining how biotechnology finds its way in Latin America.
+
 ### Topics
 
 Some particular areas of interest are:
@@ -84,6 +89,11 @@ Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tis
 
 ## Latin American Workshop on Python and Physics
 
+The workshop is a meeting point to discuss the latest results of Latin American
+research facilities. Participation of peers from poorer countries will
+contribute to fight the regional disparities in education and research
+as well as to reach more than 15,000 physicists.
+
 ### Topics
 
 Some particular areas of interest are:
@@ -102,6 +112,11 @@ Nuclear Physics, Numerical Simulations, Physics of materials, Quantum Physics, R
 Semiconductors, Statistical Mechanics.
 
 ## Latin American Workshop on Python and Electrical Engineering
+
+Researchers and entrepreneurs will meet in Havana to cover the potential of
+smart-grid technologies, robotics, AI and similar technologies to implement
+disruptive applications, emphasizing on explaining how Python helped them to
+achieve a competitive advantage.
 
 ### Topics
 
@@ -152,6 +167,10 @@ Optical materials and devices, Robotics, Semiconductors.
 
 ## Latin American Workshop on Python, Economics and Management Science
 
+The financial industry, digital payments, and ports across more than 200,000 km
+of coasts have been presenting a number of mathematical and computational
+challenges to researchers. Experts will explain how Python tools help small
+businesses and companies to boost economic growth.
 
 ### Topics
 
@@ -208,6 +227,11 @@ Submitted contributions are expected to portray how Python
 constitutes an integral part of the technical innovations and the particular
 role of the programming language in providing a competitive advantage.
 
+Science and Python tools will provide answers to regional IT initiatives in
+need of coping with more than 689 million mobile subscriptions, 50 million
+active consumers, and an IoT market expected to double to $15.6 billion and
+reach more than 800 million connected endpoints.
+
 ### Topics
 
 Some particular areas of interest are:
@@ -263,6 +287,11 @@ Wireless Technologies.
 
 ## Latin American Workshop on Python and Earth Sciences
 
+Earth Sciences are the key to mitigate the impact of disasters and to prepare
+for responsible prospection and sustainable explotation of resources. The
+callenge consists in finding a balance between consumption of societies and
+preservation of Latin American ecosystems.
+
 ### Topics
 
 Some particular areas of interest are:
@@ -299,6 +328,11 @@ Inorganic Chemistry, Marine Chemistry, Meteorology, Mineralogy, Oceanography,
 Paleontology, Pedology, Petrochemistry, Seismics, Soil Science, Speleology.
 
 ## Latin American Workshop on Python, Social Sciences and Humanities
+
+The 670 Latin American ethnic groups conform the fastest growing Internet
+population in the world. Join the experts to discuss regional trends in fields
+like smart cities, sharing economy, multilingual content navigation, open data,
+social networking and e-communities.
 
 ### Topics
 
