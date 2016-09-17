@@ -51,9 +51,9 @@ be able to apply. The goals are the following:
   proposals to organize the SciPyLA 2018 event.
 
 The OrgaTeam will work together with Ambassadors so as to provide them
-with support to execute scheduled tasks, ensure they will be credited
-for all their contributions, prioritize their requests for financial
-support, and ensure that they will receive all the benefits for the
+with support to execute scheduled tasks, to ensure they will be credited
+for all their contributions, to prioritize their requests for financial
+support, and to ensure that they will receive all the benefits for the
 concept of collaborations and bonuses.
 
 ## Application details
