@@ -10,7 +10,7 @@ For further negotation please contact us by sending an email message to
 2017@scipyla.org.
 
 | FEATURE                   | DIAMOND  | PLATINUM | GOLD     | SILVER   | BRONZE   |
-| ------------------------- | -------- | -------- | -------- | -------- | -------- |
+| ------------------------- | :------: | :------: | :------: | :------: | :------: |
 | Price                     | $8192    | $4096    | $2048    | $1024    | $500     |
 | Number of spots available |    3     |    5     |    8     |    10    |   any    |
 | Tickets for attendees     |    4     |    3     |    2     |    2     |    1     |
