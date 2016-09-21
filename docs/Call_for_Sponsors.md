@@ -9,97 +9,39 @@ services included in each case.
 For further negotation please contact us by sending an email message to
 2017@scipyla.org.
 
-------------------------------------------------------------------------------------
 | FEATURE                   | DIAMOND  | PLATINUM | GOLD     | SILVER   | BRONZE   |
-------------------------------------------------------------------------------------
+| ------------------------- | -------- | -------- | -------- | -------- | -------- |
 | Price                     | $8192    | $4096    | $2048    | $1024    | $500     |
-------------------------------------------------------------------------------------
 | Number of spots available |    3     |    5     |    8     |    10    |   any    |
-------------------------------------------------------------------------------------
 | Tickets for attendees     |    4     |    3     |    2     |    2     |    1     |
-------------------------------------------------------------------------------------
-| Post-event analytics      |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
-| report                    |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Talks in meetups prior to |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| the event to advertise    |          |          |          |          |          |
-| APIs, services, and/or    |          |          |          |          |          |
-| products                  |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Talks in social events    |   [+]    |   [+]    |   [+]    |   [+]    |   [ ]    |
-| during the conference     |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Post-event analytics report      |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
+| Talks in meetups prior to the event to advertise APIs, services, and/or products   |   [+]    |   [+]    |   [ ]    |   [ 
+| Talks in social events during the conference    |   [+]    |   [+]    |   [+]    |   [+]    |   [ ]    |
 | Reserved seats            |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
-------------------------------------------------------------------------------------
-| Contests to promote API   |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| or service during sprints |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Organize side-events      |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
-| during or after sprints   |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Reserved resources during |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| sprints to work on an API |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Propose workshops about   |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
-| API, library or service   |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Present products in press |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
-| room                      |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Logo on screen during     |   [ ]    |   [ ]    |   [+]    |   [+]    |   [+]    |
-| coffee breaks             |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Promotional video         |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
-| on screen during          |          |          |          |          |          |
-| coffee breaks             |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Contests to promote API or service during sprints   |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
+| Organize side-events during or after sprints      |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
+| Reserved resources during sprints to work on an API |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
+| Propose workshops about API, library or service   |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
+| Present products in press room |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
+| Logo on screen during coffee breaks    |   [ ]    |   [ ]    |   [+]    |   [+]    |   [+]    |
+| Promotional video on screen during coffee breaks  |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
 | Booth, table or VIP room  |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-------------------------------------------------------------------------------------
-| Job offers in conference  |    15    |    10    |     8    |     8    |     8    |
-| website and live news     |          |          |          |          |          |
-| stream                    |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Tweets during the         |     4    |     2    |     1    |     1    |     1    |
-| conference                |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Job offers in conference website and live news stream |    15    |    10    |     8    |     8    |     8    |
+| Tweets during the conference        |     4    |     2    |     1    |     1    |     1    |
 | 'Welcome sponsor!' tweet  |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
-------------------------------------------------------------------------------------
 | Roll-up in the venue      |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-------------------------------------------------------------------------------------
 | Roll-up on stage          |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
-------------------------------------------------------------------------------------
-| Interview or promotional  |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
-| video prior to the event  |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Promotional codes to all  |   [+]    |   [+]    |   [+]    |   [+]    |   [ ]    |
-| participants              |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Interview or promotional video prior to the event  |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
+| Promotional codes to all participants  |   [+]    |   [+]    |   [+]    |   [+]    |   [ ]    |
 | Posters                   |     2    |     1    |     1    |     1    |          |
-------------------------------------------------------------------------------------
 | Logo in videos intro/exit |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-------------------------------------------------------------------------------------
-| Text/image in-video ads   |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| (separate fees may apply) |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Video ads after original  |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
-| recording                 |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Roll-up/ads shown during  |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
-| members/employees talks   |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Text/image in-video ads *(separate fees may apply)*   |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
+| Video ads after original recording  |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
+| Roll-up/ads shown during members/employees talks  |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
 | Handout brochure / swag   |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
-------------------------------------------------------------------------------------
-| Image adverts in carousel |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
-| in SciPyLA 2017 home page |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Logo in marketing section |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| in SciPyLA 2017 home page |          |          |          |          |          |
-------------------------------------------------------------------------------------
-| Conference T-shirt with   |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
-| company/project/product   |          |          |          |          |          |
-| logo                      |          |          |          |          |          |
-| (separate fees may apply) |          |          |          |          |          |
-------------------------------------------------------------------------------------
+| Image adverts in carousel in SciPyLA 2017 home page |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
+| Logo in marketing section in SciPyLA 2017 home page |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
+| Conference T-shirt with company/project/product logo *(separate fees may apply)* |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
 
 ### Additional remarks 
 
