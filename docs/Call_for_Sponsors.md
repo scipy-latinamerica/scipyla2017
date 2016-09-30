@@ -11,8 +11,8 @@ For further negotation please contact us by sending an email message to
 
 | FEATURE                   | DIAMOND  | PLATINUM | GOLD     | SILVER   | BRONZE   |
 | ------------------------- | :------: | :------: | :------: | :------: | :------: |
-| Price                     | $8192    | $4096    | $2048    | $1024    | $500     |
-| Number of spots available |    3     |    5     |    8     |    10    |   any    |
+| Price                     | $8192    | $4096    | $2048    | $1024    | $512     |
+| Number of spots available |    3     |    5     |    8     |    10    |   ∞    |
 | Tickets for attendees     |    4     |    3     |    2     |    2     |    1     |
 | Post-event analytics report      |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
 | Talks in meetups prior to the event to advertise APIs, services, and/or products   |   [+]    |   [+]    |   [ ]    |   [ 
@@ -26,14 +26,14 @@ For further negotation please contact us by sending an email message to
 | Logo on screen during coffee breaks    |   [ ]    |   [ ]    |   [+]    |   [+]    |   [+]    |
 | Promotional video on screen during coffee breaks  |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
 | Booth, table or VIP room  |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
-| Job offers in conference website and live news stream |    15    |    10    |     8    |     8    |     8    |
+| Job offers in conference website and live news stream |    15    |    10    |     8    |     6    |     2    |
 | Tweets during the conference        |     4    |     2    |     1    |     1    |     1    |
 | 'Welcome sponsor!' tweet  |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
 | Roll-up in the venue      |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
 | Roll-up on stage          |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
 | Interview or promotional video prior to the event  |   [+]    |   [+]    |   [+]    |   [ ]    |   [ ]    |
 | Promotional codes to all participants  |   [+]    |   [+]    |   [+]    |   [+]    |   [ ]    |
-| Posters                   |     2    |     1    |     1    |     1    |          |
+| Posters                   |     3    |     3    |     2    |     2    |     1    |
 | Logo in videos intro/exit |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
 | Text/image in-video ads *(separate fees may apply)*   |   [+]    |   [+]    |   [ ]    |   [ ]    |   [ ]    |
 | Video ads after original recording  |   [+]    |   [ ]    |   [ ]    |   [ ]    |   [ ]    |
@@ -44,6 +44,9 @@ For further negotation please contact us by sending an email message to
 | Conference T-shirt with company/project/product logo *(separate fees may apply)* |   [+]    |   [+]    |   [+]    |   [+]    |   [+]    |
 
 ### Additional remarks 
+
+Time slots to organize meetups prior to the SciPyLA 2017 conference will
+be allocated between December 2016 and April 2017.
 
 If interested in distributing stickers, brochure, T-shirts or other assets printed
 on paper as well as T-shirts of the conference with your company, project or
