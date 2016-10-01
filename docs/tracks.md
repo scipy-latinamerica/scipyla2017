@@ -327,7 +327,7 @@ Geography, Geology, Geomorphology, Geophysics, Glaciology, Hydrogeology, Hidrolo
 Inorganic Chemistry, Marine Chemistry, Meteorology, Mineralogy, Oceanography,
 Paleontology, Pedology, Petrochemistry, Seismics, Soil Science, Speleology.
 
-## Latin American Workshop on Python, Modern Societies and Humanities
+## Latin American Workshop on Python, Architecture, Social Sciences and Humanities
 
 The 670 Latin American ethnic groups conform the fastest growing Internet
 population in the world. Join the experts to discuss regional trends in fields
@@ -350,6 +350,7 @@ Some particular areas of interest are:
 - Domed city
 - e-Communities
 - Education as a Service (EaaS)
+- Historic preservation
 - Machine translation
 - Multilingual content navigation
 - Online social models for social networking and consumption simulation
