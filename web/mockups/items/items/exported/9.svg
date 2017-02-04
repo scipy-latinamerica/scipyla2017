@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="12.799mm" height="12.799mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1280 1280"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:#F8F8F9}
+    .fil3 {fill:#D6D4D2}
+    .fil2 {fill:#384148}
+    .fil0 {fill:#14365B}
+    .fil6 {fill:#3288B3}
+    .fil1 {fill:#D2AA2F}
+    .fil5 {fill:#FFD43B}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_494806789312">
+   <circle class="fil0" cx="640" cy="640" r="640"/>
+   <g>
+    <polygon class="fil1" points="854,343 367,343 217,652 1003,652 "/>
+    <polygon class="fil2" points="247,643 379,343 842,343 973,643 "/>
+    <path class="fil3" d="M872 577c0,21 -17,38 -37,38l-449 0c-21,0 -38,-17 -38,-38l0 -309c0,-20 17,-37 38,-37l449 0c20,0 37,17 37,37l0 309z"/>
+    <path class="fil4" d="M872 587c0,20 -17,37 -37,37l-449 0c-21,0 -38,-17 -38,-37l0 -309c0,-21 17,-38 38,-38l449 0c20,0 37,17 37,38l0 309z"/>
+    <polygon class="fil3" points="722,309 507,309 507,290 722,290 "/>
+    <polygon class="fil3" points="825,365 395,365 395,346 825,346 "/>
+    <polygon class="fil3" points="825,437 395,437 395,418 825,418 "/>
+    <path class="fil3" d="M910 755c0,21 -17,38 -38,38l-524 0c-20,0 -37,-17 -37,-38l0 -309c0,-20 17,-37 37,-37l524 0c21,0 38,17 38,37l0 309z"/>
+    <path class="fil4" d="M910 764c0,21 -17,38 -38,38l-524 0c-20,0 -37,-17 -37,-38l0 -308c0,-21 17,-38 37,-38l524 0c21,0 38,17 38,38l0 308z"/>
+    <polygon class="fil3" points="751,506 470,506 470,487 751,487 "/>
+    <polygon class="fil3" points="863,573 357,573 357,555 863,555 "/>
+    <polygon class="fil3" points="863,629 357,629 357,610 863,610 "/>
+    <path class="fil1" d="M741 652l0 28c0,11 -8,19 -19,19l-234 0c-10,0 -18,-8 -18,-19l0 -28 -253 0 0 281 786 0 0 -281 -262 0z"/>
+    <path class="fil5" d="M741 671l0 28c0,10 -8,19 -19,19l-234 0c-10,0 -18,-9 -18,-19l0 -28 -253 0 0 281 786 0 0 -281 -262 0z"/>
+    <circle class="fil6" cx="392" cy="488" r="44"/>
+   </g>
+  </g>
+ </g>
+</svg>

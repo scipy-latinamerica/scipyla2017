@@ -1,0 +1,10 @@
+YanoneKaffeesatz-Regular (para titulares y menú principal)
+RobotoCondensed-Regular (cuerpo de texto y submenú)
+RobotoCondensed-Bold (elementos puntuales como botones, textos debajo de los planetas, años en la grafica y la galería, titulares de los tracks 
+y textos de mañana tarde y nocheen la página Agenda)
+
+*Todas estas fuentes son del repositorio de GOOGLE FONTS, por lo que te la adjunto solo para que puedas ver corecctamente el PSD y cuales van en 
+cada caso, pero en el codigo la idea es llamar a su origen en Google Font.
+
+Yo sienpre las fuentes que te de para web intentaré que sean de gogle font, igual que las que te había dado para Cuban Tech son de GF y en 
+ese momento se me pasó comentartelo
