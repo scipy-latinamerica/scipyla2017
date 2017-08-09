@@ -1,9 +1,9 @@
-## Invitamos a los interesados a organizar la SciPy Latin America 20XX a realizar las propuestas de sede.  
+## Invitamos a los interesados a organizar la SciPy Latin America 2018 a realizar las propuestas de sede.  
 
 La propuesta a realizar debe incluir:
 
 - **Objetivos**
-    - Expandir el área geográfica dónde se realiza la conferencia (SciPy Argentina 2013 tuvo lugar en Puerto Madryn Argentina, SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina, en 2016 tiene sede en Florianópolis / Brasil). Es esperable que la versión 2017 tome lugar en algún país de latinoamérica.
+    - Expandir el área geográfica dónde se realiza la conferencia (SciPy Argentina 2013 tuvo lugar en Puerto Madryn Argentina, SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina, en 2016 tiene sede en Florianópolis / Brasil, en 2017 tiene sede en Cuba). Es esperable que la versión 2018 tome lugar en algún país de latinoamérica.
     - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades;
     - Enfoque a la industria, herramientas, core, educación etc.
 
@@ -30,16 +30,15 @@ La propuesta a realizar debe incluir:
 
 ### Como enviar la propuesta
 
-El formulario para envio de propuesta está disponible en [link del archivo].
+El formulario para envio de propuesta está disponible en https://docs.google.com/forms/d/e/1FAIpQLSc3gj0Ox6MoT6DPy8n8BPrFy0MsXmyNR2PMpNdTSzENgqLnJQ/viewform.
 
 ### Elección
 
 Se eligirá la sede al final en el ultimo Slot ([fecha]). El que no pueda asistir y quiera opinar puede enviar emails al thread de discusión y será tomado en cuenta.
-
-* [link del archivo]
 
 Se agradece la difusión.
 
 Atentamente,
 
 Organización SciPy Latinoamérica 2017
+https://github.com/scipy-latinamerica/scipyla2017/edit/master/docs/Call_for_Sedes_ES.md
