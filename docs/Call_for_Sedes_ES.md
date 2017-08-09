@@ -7,7 +7,8 @@ La propuesta a realizar debe incluir:
     - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades;
     - Enfoque a la industria, herramientas, core, educación etc.
 
-- **Público estimado y difusión (medios)**;
+- **Público estimado**;
+- **Medios de difusión**;
 - **Experiencia Previa** Eventos como PyCon o conferencias científicas u otros eventos locales y/o internacionales), disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.).
 - **Sede tentativa** (Universidades, Centros de Investigación, Institutos de Capacitación, Coworking o similar);
 - **Roles principales** (comité organizador, comisión científica);
