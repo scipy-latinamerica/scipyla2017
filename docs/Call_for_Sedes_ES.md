@@ -31,7 +31,7 @@ La propuesta a realizar debe incluir:
 
 ### Como enviar la propuesta
 
-El formulario para envio de propuesta está disponible en https://docs.google.com/forms/d/e/1FAIpQLSc3gj0Ox6MoT6DPy8n8BPrFy0MsXmyNR2PMpNdTSzENgqLnJQ/viewform.
+El formulario para envio de propuesta está disponible en http://bit.ly/scipyla2018-propose-host .
 
 ### Elección
 
